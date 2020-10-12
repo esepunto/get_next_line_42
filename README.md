@@ -1,5 +1,5 @@
 # get_next_line_42
-## The aim of this project is to make the code a function that returns a line ending with a new line, read froma file descriptor.... aka The benefits of static variables.
+## The aim of this project is to make the code `a function that returns a line ending with a new line`, read from a file descriptor... aka The benefits of static variables.
 #### El GNL va de una pizarra vileda y del texto que tienes que escribir en esa pizarra.
 El problema es que esa pizarra es muy muy muy estrecha y solo cabe una línea, así que cuando has escrito esa línea, tienes que borrarla y empezar de nuevo.
 Pero además hay otro problema añadido: esa línea no puedes escribirla del tirón, sino que hay que hacerlo como en los dictados del cole: el profe te leía parte del texto; tú escribías; el profe leía otro poco más y tú volvías a escribir. Y así hasta que acababa el texto. Pero recuerda que solo puedes escribir una línea en tu pizarra vileda, así que cuando el profe llega al final de línea, tienes que borrar tu pizarra vileda para poder escribir la siguiente línea.
